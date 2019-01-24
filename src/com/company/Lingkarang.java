@@ -7,6 +7,6 @@ public class Lingkarang {
         double keliling=2*phi*jari;
 
         System.out.println("Jari-jari lingkaran : "+jari);
-        System.out.println("Keliling        : "+keliling);
+        System.out.println("Keliling           : "+keliling);
     }
 }
